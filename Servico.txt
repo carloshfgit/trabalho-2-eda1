@@ -1,0 +1,3 @@
+77777777000107;Clinica Vida;Brasilia;6133330007
+88888888000108;Transporte Rapido;Formosa;6133330008
+99999999000109;Consultoria Delta;Valparaiso;6133330009

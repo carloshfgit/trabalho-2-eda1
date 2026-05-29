@@ -1,0 +1,3 @@
+44444444000104;Mercado Asa Norte;Brasilia;6133330004
+55555555000105;Loja Cerrado;Taguatinga;6133330005
+66666666000106;Atacado Brasil;Luziania;6133330006
