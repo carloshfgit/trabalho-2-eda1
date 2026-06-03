@@ -84,13 +84,13 @@ Antes de iniciar, certifique-se de ter instalado em seu sistema:
 
 ---
 
-### Passo 1: Preparar o Ambiente
-Abra o seu terminal/linha de comando e navegue até a pasta onde os arquivos do projeto foram extraídos ou clonados:
+### Passo 1: Clonar o Repositório
+Abra o seu terminal/linha de comando e clone o repositório utilizando o Git:
 
 ```bash
-cd /caminho/para/a/pasta/do/trabalho-2-eda
+git clone https://github.com/carloshfgit/trabalho-2-eda1.git
+cd trabalho-2-eda1
 ```
-*(Substitua `/caminho/para/a/pasta/...` pelo diretório real no seu computador)*
 
 ---
 
